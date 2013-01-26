@@ -1,0 +1,9 @@
+---
+layout: default
+title: Home
+---
+ 
+	    {% for post in site.posts %}
+		{{ post.content }} 
+	    {% endfor %}
+ 

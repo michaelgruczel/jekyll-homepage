@@ -71,5 +71,44 @@ Dann Jekyll struktur erzeugt (entnommen http://www.terminally-incoherent.com/blo
 
 Jetzt ne echte Seite erzeugt
 
-* template von http://www.freecsstemplates.org/ benutzt
+* template von http://www.freecsstemplates.org/ benutzt d.h. css und pics reinkopiert
 
+* index.html hat das layout der default.html bekommen und der content-bereich enthält jetzt alle post der Kategorie home
+``` 
+   ---
+   layout: default
+   title: Home
+   ---
+ 
+	    {% for post in site.posts %}
+               {% if post.categories contains 'home' %}
+                  {{ post.content }}
+               {% endif %} 
+	    {% endfor %}
+```
+* oldEntries.html hat das layout der default.html bekommen und der content-bereich enthält jetzt alle post der Kategorie old
+```
+   ---
+   layout: default
+   title: Home
+   ---
+ 
+	    {% for post in site.posts %}
+               {% if post.categories contains 'old' %}
+                  {{ post.content }}
+               {% endif %} 
+	    {% endfor %} 
+```
+* default.html ist eine modifizierte Version von http://www.freecsstemplates.org
+* post.html
+```
+   ---
+   layout: default
+   ---
+ 
+   <div class="post"><h2 class="title">
+
+   {{ content }}
+
+   </div>
+```

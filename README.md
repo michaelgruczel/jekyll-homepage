@@ -18,7 +18,7 @@ Dann Jekyll struktur erzeugt (entnommen http://www.terminally-incoherent.com/blo
 * mkdir _site
 * cd _layouts/
 * vi default.html
-
+```
     <html>
     <head>
 	    <title>My Jekyll Test</title>
@@ -27,9 +27,9 @@ Dann Jekyll struktur erzeugt (entnommen http://www.terminally-incoherent.com/blo
 	    {{ content }}
     </body>
     </html>
-
+```
 * vi post.html
-
+```
     ---
     layout: default
     ---
@@ -37,21 +37,22 @@ Dann Jekyll struktur erzeugt (entnommen http://www.terminally-incoherent.com/blo
     <h2>{{ page.title }}</h2>
  
 	    {{ content }}
-
+```
 * cd ..
 * cd _posts/
 * vim 2012-01-18-hello.markdown
-
+```
     ---
     layout: post
     title: Hello
     ---
  
     Hello World!
-
+```
 * cd ..
 * vi index.html
 
+```
     ---
     layout: default
     title: Home
@@ -63,7 +64,7 @@ Dann Jekyll struktur erzeugt (entnommen http://www.terminally-incoherent.com/blo
 		({{ post.date | date_to_string}})</li>
 	    {% endfor %}
     </ul>
-
+```
 * jekyll
 * jekyll --server
 * http://localhost:4000

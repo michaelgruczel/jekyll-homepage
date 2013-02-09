@@ -52,6 +52,7 @@ Dann Jekyll struktur erzeugt (entnommen http://www.terminally-incoherent.com/blo
 * cd ..
 * vi index.html
 
+```
     ---
     layout: default
     title: Home
@@ -63,6 +64,7 @@ Dann Jekyll struktur erzeugt (entnommen http://www.terminally-incoherent.com/blo
 		({{ post.date | date_to_string}})</li>
 	    {% endfor %}
     </ul>
+```
 
 * jekyll
 * jekyll --server
@@ -71,5 +73,4 @@ Dann Jekyll struktur erzeugt (entnommen http://www.terminally-incoherent.com/blo
 Jetzt ne echte Seite erzeugt
 
 * template von http://www.freecsstemplates.org/ benutzt
- 
 

@@ -2,12 +2,13 @@ jekyll-homepage
 ===============
 
 Dies ist meine mit Jekyll gebaute/generierte statische Webseite
+Was hab ich gemacht:
 
-Zunächst Jekyll installieren:
+Zunächst Jekyll installiert:
 
 * https://github.com/mojombo/jekyll
 
-Dann Jekyll struktur erzeugen (entnommen http://www.terminally-incoherent.com/blog/2012/01/25/building-your-first-jekyll-site-in-5-minutes/):
+Dann Jekyll struktur erzeugt (entnommen http://www.terminally-incoherent.com/blog/2012/01/25/building-your-first-jekyll-site-in-5-minutes/):
 
 * mkdir jekyll-homepage
 * cd jekyll-homepage
@@ -67,8 +68,8 @@ Dann Jekyll struktur erzeugen (entnommen http://www.terminally-incoherent.com/bl
 * jekyll --server
 * http://localhost:4000
 
-Jetzt ne echte Seite erzeugen
+Jetzt ne echte Seite erzeugt
 
-* template selber entwickeln
-* oder aus http://www.freecsstemplates.org/ nehmen 
+* template von http://www.freecsstemplates.org/ benutzt
+ 
 

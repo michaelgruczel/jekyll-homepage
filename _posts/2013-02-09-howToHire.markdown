@@ -14,13 +14,30 @@ categories : [home, Allgemeines]
 Smart:<br/>
 
 Pragmatisch:<br/>
-
+• Slow. Taking a long time to code (or do) something
+simple.<br/>
+• Perfectionist. Tendency to over design something.<br/>
+• coding exercise<br/> 
+<br/>
 In die Firmenkultur passend:<br/>
 Gleiche oder ähnliche Werte, Normen, Ziele und Verfahren.
 Nur dann werden sie sich integrieren, werden motiviert sein und werden Teil des Teams werden.<br/>
+• ‘Beer test’<br/>
+• Having a lot of people interviewing<br/>
+• Candidate long time in a different culture?<br/>
+• Follow through. Did the candidate respond to
+every email from me quickly? Did they follow
+through on everything they said they would do?<br/>
+• Interviews<br/>
 <br/>
 Passion/Eigenmotivation:<br/>
-<br/>
+• Excellence. Do they spend the time to become
+good at anything they adopt as a hobby? Open
+Source?<br/>
+• Proactivity. Do they suggest the right next steps
+without prompting?<br/>
+• Passion for engineering
+• Passion for the product
 <br/>
 Bezahlbar:<br/>
 <br/>

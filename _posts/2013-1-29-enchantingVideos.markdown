@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Willkommen
-categories : [home, Allgemeines]
+categories : [motivationofemployees]
 ---
 
 <h2><a href="#">Einige Videos über das richtige Führen von Firmen</a></h2>

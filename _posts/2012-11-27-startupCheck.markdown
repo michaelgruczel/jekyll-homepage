@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Willkommen
-categories : [old, Allgemeines]
+categories : [other]
 ---
  
 <h2><a href="#">Einige Fragen welche man sich stellen sollte wenn man ein Startup gründen will</a></h2>

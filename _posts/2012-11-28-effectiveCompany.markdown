@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Willkommen
-categories : [home, Allgemeines]
+categories : [managingcompanies]
 ---
  
 <h2><a href="#">Wann ist eine IT-Firma effektiv ?</a></h2>

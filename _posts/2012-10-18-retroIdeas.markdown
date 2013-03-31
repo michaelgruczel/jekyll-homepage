@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Willkommen
-categories : [old, Allgemeines]
+categories : [agile]
 ---
  
 <h2><a href="#">Einige Retro Ideen</a></h2>

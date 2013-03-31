@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Willkommen
-categories : [home, Allgemeines]
+categories : [motivationofemployees]
 ---
  
 <h2><a href="#">Wie man Menschen begeistert ?</a></h2>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Willkommen
-categories : [home, managingcompanies]
+categories : [managingcompanies]
 ---
  
 <h2><a href="#">Nach welchen Kriterien sollte man Leute einstellen, hier ein paar Ideen</a></h2>
@@ -11,10 +11,10 @@ categories : [home, managingcompanies]
 <p>
 <strong>Hier ein paar Ideen nach welchen Kriterien man Leute einstellen sollte:</strong><br/>
 <br/>
-Moderne IT-Firmen werden nicht mehr streng hierarchisch geführt und wenn auch nicht jede IT-Firma so weit geht wie
+Moderne IT-Firmen werden nicht mehr streng hierarchisch geführt und wenn auch nicht jede IT Firma so weit geht wie
 Valve (<a href="http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf">Valve Angestellten Handbuch</a>)
-so sollte ein IT-ler Heute viel mehr Eingeninitiative zeigen als es früher noch der Fall war (und auch die Möglichkeiten
-bekommen eingeninitiativ zu agieren).
+so sollte ein IT-ler Heute viel mehr Eigeninitiative zeigen als es früher noch der Fall war (und auch die Möglichkeiten
+bekommen eigeninitiativ zu agieren).
 Die folgende Liste von Kriterien ist natürlich subjektiv und unvollständig.<br/>
 <br/>
 Smart:<br/>
@@ -27,6 +27,7 @@ Natürlich möchte man eine perfekte Software, aber bevor man etwas perfekt ausl
 muss man erstmal ausliefern können. Eine gewisse Pragmatik ist in der IT-Branche unumlässlich.
 Braucht jemand sehr lange etwas sehr einfaches zu programmieren oder neigt die Person zum übertriebenen design,
 ist er vermutlich nicht der Richtige.
+Das gilt natürlich auch umgekehrt. Falls jemand alzu kurzsichtig agiert ist dies noch schädlicher.
 Derartiges kann man durch eine Coding Übung herrausfinden.<br/>
 <br/>
 In die Firmenkultur passend:<br/>
@@ -41,7 +42,7 @@ Möglichkeiten hier etwas in Erfahrung zu bringen sind zum Beispiel:</br>
 <br/>
 Passion/Eigenmotivation:<br/>
 Es ist einfach etwas zu machen wenn man Geld dafür bekommt und jemand einem sagt was man machen soll
-(zumindest gibt es viele Menschen den das einfach fällt), aber bringt sich die Person auch ein
+(zumindest gibt es viele Menschen denen das einfach fällt), aber bringt sich die Person auch ein
 wenn er keine Anweisungen bekommt und wenn er nicht sofort immer für alles bezahlt wird ?
 Handelt er weil er es möchte oder weil er dafür bezahlt wird. Jeder Angestellte verdient eine
 gute Bezahlung, aber wenn Bezahlung das Hauptmotiv für das Handeln ist wird die Person sich niemals

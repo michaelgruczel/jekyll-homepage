@@ -6,8 +6,7 @@ categories : [home, checklists]
 
 <h2><a href="#">Checklist Pr&auml;sentationen</a></h2>
 <p class="meta"><span class="date">Januar 12, 2014</span><span class="posted"> Kategorie: Checklisten</span></p>
-<div style="clear: both;">&nbsp;</div>
-<div class="entry">
+<div class="style1">
 <p>
 Wenn du eine Pr&auml;sentation vorbereitest oder erstellt hast, stelle dir folgende Fragen:<br/>
 <ul>
@@ -28,3 +27,5 @@ Wenn du eine Pr&auml;sentation vorbereitest oder erstellt hast, stelle dir folge
 </ul>
 </p>
 </div>
+
+<hr/>

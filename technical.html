@@ -1,0 +1,10 @@
+---
+layout: default
+title: Technisches
+---
+
+{% for post in site.posts %}
+{% if post.categories contains 'technical' %}
+{{ post.content }}
+{% endif %}
+{% endfor %}

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Willkommen
-categories : [home,other]
+categories : [home, other]
 ---
- 
+
 <h2><a href="#">Ideen-Toolbox</a></h2>
 <p class="meta"><span class="date">November 23, 2013</span><span class="posted"> Kategorie: Anderes</span></p>
 <div style="clear: both;">&nbsp;</div>
@@ -32,7 +32,7 @@ Man nimmt eine Idee oder ein Produkt und versucht nun andere Ableitungen zu find
 Morphological Matrix:<br/>
 Man bildet eine Tabelle mit allen möglichen Attributen als Spalten und allen möglichen Einsatszwecken als Zeilen. Nun schreibt man in die Zellen wie die Kombnation aussehen könnte. Siehe zum Beispiel http://www.mindtools.com/pages/article/newCT_03.htm<br/>
 <br/>
-Brainwriting 6-3-5:<br/> 
+Brainwriting 6-3-5:<br/>
 6 Leute schreiben in 5 Minuten jeweils für sich 3 Ideen auf eine Karte.
 Dann wird die Karte weitergereicht und alle machen in der nächsten Runde mit den Ideen die auf den Karten sind weiter http://www.mycoted.com/Brainwriting, http://www.bmgi.com/resources/elearning/brainstorming-techniques<br/>
 <br/>
@@ -43,9 +43,9 @@ http://www.mycoted.com/SuperHeroes<br/>
 Imaginary Brainstorming:<br/>
 Anstatt über ein Problem nachzudenken, denkt man über ein anderes
 Problem nach, löst dieses und versucht die Lösungen auf das eigentliche
-Problem zu übertragen. 
+Problem zu übertragen.
 http://www.bmgi.com/resources/elearning/brainstorming-techniques<br/>
-<br/> 
+<br/>
 Spare Diamonds:<br/>
 Manchmal muss man sich auch klar machen welche Resourcen man hat um Probleme anzugehen. Dies kann zum Beispiel enthalten:<br/>
 • Freunde - Kennt man jemanden der ein unterstützen kann ?<br/>
@@ -61,5 +61,5 @@ Wissenschaftlich an das Problem gehen:<br/>
 • Erzeuge Prototypen - Bau ein Produkt dass die Mindestanforderungen erfüllt oder bestimmte Aspekte aufzeigt um zu testen ob deine Annahmen korrekt waren, zeig es den Kunden oder teste es<br/>
 • Analysiere Ergenisse - Prüfe das Ergebnis deines Prototypen und deiner Annahmen<br/>
 <br/>
-</p>	
+</p>
 </div>
